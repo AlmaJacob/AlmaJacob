@@ -207,6 +207,15 @@ I'm always excited to discuss new opportunities, collaborate on innovative proje
 **🌍 Location:** Ernakulam, Kerala, India
 
 ---
+---
+
+<p align="center">
+  <i>Thank you for visiting my profile! 💖</i>
+</p>
+
+<p align="center">
+  🙏
+</p>
 
 *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*
 

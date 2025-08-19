@@ -1,13 +1,15 @@
 # Hello, I'm Alma Jacob 👨‍💻
 
 **Python Full-Stack Developer** | **Django Specialist** | **Building Scalable Web Solutions**
-
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alma-jacob-917b4a348/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almajacob7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/almajacob)
+![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-28a745?style=for-the-badge&logo=google-maps&logoColor=white)
+
 </div>
+
 
 ## 🚀 About Me
 
